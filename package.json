@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-link",
+  "version": "1.0.0",
+  "scripts": {
+    "docs:build": "vuepress build docs"
+  },
+  "description": "links' usage in vuepress",
+  "main": "index.js",
+  "author": "ULIVZ",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.10.0"
+  }
+}
