@@ -1,5 +1,7 @@
 # Homepage
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/vuepress-link.svg)](https://greenkeeper.io/)
+
 This is the file structure of the project you are seeing now:
 
 ```
